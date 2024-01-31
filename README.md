@@ -9,7 +9,7 @@ The following are recommendations for the 2024 CECS college technology fee spend
 | Boffin Design Space | 018 Russ\* | $35,000 |
 | Boffin Advanced Fabrication Space (3D printing / Laser Cutting / Electronics)| 030 / 028 Russ | $50,000 - $120,000 \*\* |
 | Boffin Fabrication Space (Wood shop & basic tools) | 024 / 026 Russ\* | $100,000 |
-| Electronic Materials Lab | 116 Russ | $ ? |
+| Electronic Materials Lab | 116 Russ | $35,000 |
 | Mobile Laptop Carts (x3) | 405 Russ\* | $90,000 \*\* |
 
 Notes:
@@ -147,7 +147,7 @@ CSE is currently only providing ~15 laptops for a 36 seat classroom.
 ### Electronic Materials Lab 
 
 * Location 116 Russ 
-* Cost: TBD
+* Cost: $35,000
 * Purpose: refresh all old equipment in the current ceramics lab to support electronic materials coatings
 
 The current Ceramics Materials lab (116 Russ) is being upgraded via ADMETE funds to 
